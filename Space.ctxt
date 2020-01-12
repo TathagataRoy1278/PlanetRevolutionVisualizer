@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=
+comment1.target=Space()
+comment2.params=b
+comment2.target=void\ addBody(Body)
+comment3.params=
+comment3.target=Body[]\ getBodies()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+numComments=5

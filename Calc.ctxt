@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Calc
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Calc\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=double\ dist(Body,\ Body)
+comment2.params=a\ b
+comment2.target=double\ slopex(Body,\ Body)
+comment3.params=a\ b
+comment3.target=double\ slopey(Body,\ Body)
+numComments=4
